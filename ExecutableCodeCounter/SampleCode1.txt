@@ -1,0 +1,21 @@
+//just a comment
+/* stuff */
+/* other
+stuff */
+   
+using abc.xyz
+
+public class One
+{
+    public One()
+    {
+        var t = 
+"";
+        var u = @"
+        ";
+
+        Console.WriteLine/*bleh*/("awesome");
+        //some other stuff
+        return;
+    }
+}

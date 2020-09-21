@@ -1,0 +1,13 @@
+C:\XamarinPluralsight\BankOcr\ExecutableCodeCounter\bin\Debug\netcoreapp3.1\ExecutableCodeCounter.exe
+C:\XamarinPluralsight\BankOcr\ExecutableCodeCounter\bin\Debug\netcoreapp3.1\ExecutableCodeCounter.deps.json
+C:\XamarinPluralsight\BankOcr\ExecutableCodeCounter\bin\Debug\netcoreapp3.1\ExecutableCodeCounter.runtimeconfig.json
+C:\XamarinPluralsight\BankOcr\ExecutableCodeCounter\bin\Debug\netcoreapp3.1\ExecutableCodeCounter.runtimeconfig.dev.json
+C:\XamarinPluralsight\BankOcr\ExecutableCodeCounter\bin\Debug\netcoreapp3.1\ExecutableCodeCounter.dll
+C:\XamarinPluralsight\BankOcr\ExecutableCodeCounter\bin\Debug\netcoreapp3.1\ExecutableCodeCounter.pdb
+C:\XamarinPluralsight\BankOcr\ExecutableCodeCounter\obj\Debug\netcoreapp3.1\ExecutableCodeCounter.csprojAssemblyReference.cache
+C:\XamarinPluralsight\BankOcr\ExecutableCodeCounter\obj\Debug\netcoreapp3.1\ExecutableCodeCounter.AssemblyInfoInputs.cache
+C:\XamarinPluralsight\BankOcr\ExecutableCodeCounter\obj\Debug\netcoreapp3.1\ExecutableCodeCounter.AssemblyInfo.cs
+C:\XamarinPluralsight\BankOcr\ExecutableCodeCounter\obj\Debug\netcoreapp3.1\ExecutableCodeCounter.csproj.CoreCompileInputs.cache
+C:\XamarinPluralsight\BankOcr\ExecutableCodeCounter\obj\Debug\netcoreapp3.1\ExecutableCodeCounter.dll
+C:\XamarinPluralsight\BankOcr\ExecutableCodeCounter\obj\Debug\netcoreapp3.1\ExecutableCodeCounter.pdb
+C:\XamarinPluralsight\BankOcr\ExecutableCodeCounter\obj\Debug\netcoreapp3.1\ExecutableCodeCounter.genruntimeconfig.cache
